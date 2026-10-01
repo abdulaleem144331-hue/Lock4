@@ -1,0 +1,1 @@
+<resources><style name="Theme.LOCK4" parent="android:style/Theme.Material.NoActionBar"><item name="android:fontFamily">sans</item><item name="android:statusBarColor">#090b0e</item><item name="android:navigationBarColor">#090b0e</item></style></resources>
